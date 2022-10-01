@@ -18,14 +18,13 @@ export default function About() {
         <h1 class="text-gray-800 text-2xl sm:text-3xl font-bold text-center md:text-left mb-4 md:mb-6">Our competitive advantage</h1>
 
         <p class="text-gray-500 sm:text-lg mb-6 md:mb-8">
-          This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated. It may be used to display a sample of fonts or generate text for testing. Filler text is dummy text which has no meaning however looks very similar to real text.<br /><br />
+        Nowadays there are many charitable organizations establishing around the world. But all are not legal or genuine. Before choosing the right charitable organization for donating or gifting something you have to make sure that the organization is genuine and reliable. Internet provides you all types of information and so you can browse through internet and find out what are the works done in past by any particular organizations. If the organization has a great past record and has helped many, then surely you can go ahead and donate. The works by a charitable organization is for a good cause.
 
-          This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is <a href="#" class="text-indigo-500 hover:text-indigo-600 active:text-indigo-700 underline transition duration-100">random</a> or otherwise generated. It may be used to display a sample of fonts or generate text for testing. Filler text is dummy text which has no meaning however looks very similar to real text.
         </p>
 
         <h2 class="text-gray-800 text-xl sm:text-2xl font-semibold text-center md:text-left mb-2 md:mb-4">About us</h2>
 
-        <p class="text-gray-500 sm:text-lg mb-6 md:mb-8">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated. It may be used to display a sample of fonts or generate text for testing. Filler text is dummy text which has no meaning however looks very similar to real text.</p>
+        <p class="text-gray-500 sm:text-lg mb-6 md:mb-8">Charity for run connects nonprofits, donors, and companies in nearly every country in the world. We help fellow nonprofits access the funding, tools, training, and support they need to serve their communities.</p>
       </div>
     </div>
   </div>

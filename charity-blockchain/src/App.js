@@ -9,6 +9,8 @@ import Team from './Components/Team';
 import Footer from './Components/Footer';
 import Login from './Components/Login';
 import Signup from './Components/Signup';
+import Createcampaign from './Components/Createcampaign';
+import Withdrawfunds from './Components/Withdrawfunds';
 
 function App() {
   return (
@@ -22,6 +24,8 @@ function App() {
     <Route path="/Team" element={<Team/>} />
     <Route path="/Login" element={<Login/>} />
     <Route path="/Signup" element={<Signup/>} />
+    <Route path="/createcampaign" element={<Createcampaign/>} />
+    <Route path="/withdrawfunds" element={<Withdrawfunds/>} />
 </Routes>
 <Footer/>
 </Router>

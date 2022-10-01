@@ -120,6 +120,7 @@ export default function Header() {
       const provider = new ethers.providers.Web3Provider(window.ethereum);
     }
   }
+ // requestAccount();
   return (
     <Popover className="relative bg-white">
       <div className="mx-auto max-w-7xl px-4 sm:px-6">
@@ -154,6 +155,9 @@ export default function Header() {
             <a href="Team" className="text-base font-medium text-gray-500 hover:text-gray-900">
               Team
             </a>
+            <a href="createcampaign" className="text-base font-medium text-gray-500 hover:text-gray-900">
+            Create Campaign
+            </a>
 
           </Popover.Group>
           <div className="hidden items-center justify-end md:flex md:flex-1 lg:w-0">
@@ -166,12 +170,12 @@ export default function Header() {
             >
               Sign up
             </a>
-            <a
+            {/* <a
               href="#" onClick={requestAccount}
               className="ml-8 inline-flex items-center justify-center whitespace-nowrap rounded-md border border-transparent bg-indigo-600 px-4 py-2 text-base font-medium text-white shadow-sm hover:bg-indigo-700"
             >
               {Btntext}
-            </a>
+            </a> */}
           </div>
         </div>
       </div>
